@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.adfa336d.css",
-    "main.js": "/static/js/main.4d1b8f0b.js",
+    "main.css": "/static/css/main.ce991de8.css",
+    "main.js": "/static/js/main.37f336e0.js",
     "static/media/Onest-Medium.ttf": "/static/media/Onest-Medium.fbd1029ceefc29dbe253.ttf",
     "static/media/Onest-SemiBold.ttf": "/static/media/Onest-SemiBold.e1ec913c539798d6a173.ttf",
     "static/media/Onest-Bold.ttf": "/static/media/Onest-Bold.e6f62dc971ba457a32e0.ttf",
     "static/media/Onest-Regular.ttf": "/static/media/Onest-Regular.2f8180f95c9c4f66c68c.ttf",
     "static/media/arrow.svg": "/static/media/arrow.c5a30ee421bfe6018af9.svg",
     "index.html": "/index.html",
-    "main.adfa336d.css.map": "/static/css/main.adfa336d.css.map",
-    "main.4d1b8f0b.js.map": "/static/js/main.4d1b8f0b.js.map"
+    "main.ce991de8.css.map": "/static/css/main.ce991de8.css.map",
+    "main.37f336e0.js.map": "/static/js/main.37f336e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.adfa336d.css",
-    "static/js/main.4d1b8f0b.js"
+    "static/css/main.ce991de8.css",
+    "static/js/main.37f336e0.js"
   ]
 }
